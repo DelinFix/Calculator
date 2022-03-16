@@ -1,4 +1,4 @@
-##It seems to me that everyone knows how to use a calculator, but I'll tell you what my calculator can do
+<h2>It seems to me that everyone knows how to use a calculator, but I'll tell you what my calculator can do</h2>
 
 Add:
 ```
